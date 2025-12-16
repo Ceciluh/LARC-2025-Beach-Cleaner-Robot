@@ -1,4 +1,4 @@
-# LARC 2024 Beach Cleaner Robot
+# LARC 2025 Beach Cleaner Robot
 Computer vision system for an autonomous beach cleaning robot. Competed at the Latin American Robotics Competition 2024.
 
 # Overview
